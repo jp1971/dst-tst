@@ -1,0 +1,14 @@
+uuid: 3099a188-1c77-4f48-9174-14eaaf262568
+name: dst-tst
+mail: jameson@athleticsnyc.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
